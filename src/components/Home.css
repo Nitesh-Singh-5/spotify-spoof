@@ -1,0 +1,35 @@
+.image__right {
+  width: 120px;
+  height: 38px;
+  border-radius: 12px;
+  margin-left: auto;
+  display: flex;
+  margin: 20px 30px 0px auto;
+  background-color: #000;
+}
+.image__right img {
+  margin-top: 4px;
+  width: 30px;
+  height: 30px;
+  border-radius: 12px;
+}
+.image__right .arrow {
+  width: 20px;
+  height: 20px;
+  margin: 6px 0px 0px 6px;
+  cursor: pointer;
+}
+.image__right h4 {
+  color: white;
+  margin-left: 6px;
+  font-size: 16px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.recentyly_played {
+  margin-left: 22%;
+  font-size: 22px;
+  color: white;
+}

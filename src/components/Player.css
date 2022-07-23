@@ -1,0 +1,17 @@
+.header {
+  margin-left: 22%;
+}
+.songs_section {
+  /* width: 340px; */
+  display: flex;
+  /* height: 400px; */
+}
+.songs_section .audio_card {
+  width: 340px;
+  height: 540px;
+  margin-right: 20px;
+}
+.songs_section .queue_song {
+  width: 80%;
+  height: 70%;
+}
